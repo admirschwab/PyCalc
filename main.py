@@ -1,6 +1,6 @@
-number1 = int(input("Zahl 1: "))
-arithmeticSign = input("Rechenzeichen: ")
-number2 = int(input("Zahl 2: "))
+number1 = int(input("Number 1: "))
+arithmeticSign = input("Arithmetic Sign: ")
+number2 = int(input("Number 2: "))
 
 Result = 0
 
